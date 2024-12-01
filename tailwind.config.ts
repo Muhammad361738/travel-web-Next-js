@@ -12,7 +12,9 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
         customPurple: '#5D50C6',  // Add your custom color here
-        customPink : '#F85E9F'
+        customPink : '#F85E9F',
+        customOrange : "#FF5722"
+
       },
     },
   },
