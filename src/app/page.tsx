@@ -4,6 +4,7 @@ import HomePage from "./components/HomePage/page"
 import Group from "./components/Group/page"
 import Desination from "./components/Desination/page"
 import Footer from "./components/Footer";
+import EmailSection from "./components/EmailSection";
 export default function Home() {
   return (
     <>
@@ -11,6 +12,7 @@ export default function Home() {
     <HomePage/>
     <Group/>
     <Desination/>
+    <EmailSection/> 
     <Footer/>
 
     </>
