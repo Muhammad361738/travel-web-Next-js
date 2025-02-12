@@ -1,31 +1,3 @@
-// import React from 'react'
-
-// function EmailSection() {
-//   return (
-//     <div className='bg-pink-100 rounded-lg mx-28 my-10 items-center h-[608px]  w-[1110px] text-center px-20 '>
-//       <div>
-//         <h3 className='font-semibold text-xl pt-28 text-pink-400 text-center'>SUBSCRIBE TO OUR NEWSLETTERS</h3>
-//       </div>
-//       <div >
-//         <h3 className='font-bold  mt-12 px-10 max-w-[928px] h-[132px] text-[45px]  '>
-//           Prepare Yourself & lets explore the beauty of the world
-//         </h3>
-//       </div>
-//       <div className='flex gap-8 items-center mt-16 h-[96px] max-w-[928px] '>
-//         <div>
-//           <input placeholder='Email' type="email" name="" id="" className='h-96px w-[620px] rounded-lg p-6 ' />
-//         </div>
-//         <div>
-//           <button className="bg-customPurple w-[235px] h-[80px] px-6 text-white font-bold text-xl rounded-3xl">
-//             Subscribe
-//           </button>
-//         </div>
-//       </div>
-//     </div>
-//   )
-// }
-
-// export default EmailSection
 
 import React from 'react';
 
