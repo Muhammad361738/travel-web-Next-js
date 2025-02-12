@@ -11,7 +11,7 @@ function EmailSection() {
 
       {/* Main Text */}
       <h3 className="font-bold mt-6 sm:mt-12 text-2xl sm:text-4xl lg:text-[45px] max-w-2xl sm:max-w-3xl lg:max-w-[928px] leading-snug">
-        Prepare Yourself & let's explore the beauty of the world
+        Prepare Yourself & lets explore the beauty of the world
       </h3>
 
       {/* Email Input + Button */}
